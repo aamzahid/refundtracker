@@ -22,20 +22,20 @@ Use the filters to search for specific refunds
 Use the action buttons to change refund statuses
 
 
-Admin settings:
+<h2>Admin settings:</h2>
 
 Access the plugin settings from the WordPress admin menu under "Refund Tracker"
 The admin page provides usage information and will contain settings in future updates
 
 
-Monitoring refunds:
+<h3>Monitoring refunds:</h3>
 
 The dashboard at the top shows total amounts for each refund category
 The table displays all refund entries with filtering and sorting options
 
 
 
-Basic Troubleshooting
+<h3>Basic Troubleshooting</h3>
 
 If the tracker doesn't appear, make sure you're logged in as an Administrator
 If styling looks broken, check for theme CSS conflicts
