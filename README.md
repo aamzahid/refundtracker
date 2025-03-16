@@ -1,20 +1,20 @@
-Usage Instructions
+<h1>Usage Instructions</h1>
 
-Adding the tracker to a page:
+<h2>Adding the tracker to a page:</h2>
 
 Edit any page or post where you want the refund tracker to appear
 Add the shortcode [refund_tracker] to the content
 Only users with proper permissions will be able to view/use the tracker
 
 
-User permissions:
+<h2>User permissions:</h2>
 
 By default, only Administrators can access the tracker
 The plugin creates a custom "Refund Manager" role you can assign to staff members
 You can also add the "manage_refunds" capability to existing roles
 
 
-Using the tracker:
+<h2>Using the tracker:</h2>
 
 Navigate to the page with the shortcode
 Use the tabs to switch between viewing refunds and adding new ones
